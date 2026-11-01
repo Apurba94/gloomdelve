@@ -1,0 +1,11 @@
+{
+  "name": "gloomdelve",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "A one-thumb roguelike: generated floors, monsters that hunt by sound and light, runes, relics and permanent death.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
